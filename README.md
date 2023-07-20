@@ -1,1 +1,1 @@
-Demo App 
+Demo App for university project
